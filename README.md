@@ -1,2 +1,2 @@
 # mikopt-update
-Plugin to update prices in Moguta CMS
+Plugin for prices update in Moguta CMS
